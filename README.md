@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **Java, spring boot, Mulesoft**
 
+- This current project: https://trello.com/b/j3Im9nTL/landing-page-api-myselft
+
 - 📫 How to reach me **helpedison@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
