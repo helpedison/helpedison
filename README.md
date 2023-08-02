@@ -4,7 +4,7 @@
 - 💬 Ask me about **Java, spring boot, Mulesoft**
 
 - This current project: https://trello.com/b/j3Im9nTL/landing-page-api-myselft
-
+- there is my resumen: https://helpedison.hackerresume.io/cf762d74-1429-47b4-8aaf-14fd6ce14af9
 - 📫 How to reach me **helpedison@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
